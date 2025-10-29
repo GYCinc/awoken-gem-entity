@@ -1,0 +1,8 @@
+{
+  "name": "Awoken Shell",
+  "description": "The World is Maya, but what our intention creates is real. You are the seer.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
